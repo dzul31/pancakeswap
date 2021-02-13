@@ -1,0 +1,41 @@
+{
+  "files": {
+    "static/js/0.123b3f1a.chunk.js": "/pancakeswap/static/js/0.123b3f1a.chunk.js",
+    "static/js/0.123b3f1a.chunk.js.map": "/pancakeswap/static/js/0.123b3f1a.chunk.js.map",
+    "static/js/1.bbe93fbe.chunk.js": "/pancakeswap/static/js/1.bbe93fbe.chunk.js",
+    "static/js/1.bbe93fbe.chunk.js.map": "/pancakeswap/static/js/1.bbe93fbe.chunk.js.map",
+    "main.js": "/pancakeswap/static/js/main.838a18d0.chunk.js",
+    "main.js.map": "/pancakeswap/static/js/main.838a18d0.chunk.js.map",
+    "runtime-main.js": "/pancakeswap/static/js/runtime-main.ebb35532.js",
+    "runtime-main.js.map": "/pancakeswap/static/js/runtime-main.ebb35532.js.map",
+    "static/css/4.3fd057df.chunk.css": "/pancakeswap/static/css/4.3fd057df.chunk.css",
+    "static/js/4.165e57d6.chunk.js": "/pancakeswap/static/js/4.165e57d6.chunk.js",
+    "static/js/4.165e57d6.chunk.js.map": "/pancakeswap/static/js/4.165e57d6.chunk.js.map",
+    "static/js/5.0bf752eb.chunk.js": "/pancakeswap/static/js/5.0bf752eb.chunk.js",
+    "static/js/5.0bf752eb.chunk.js.map": "/pancakeswap/static/js/5.0bf752eb.chunk.js.map",
+    "static/js/6.6b7cb360.chunk.js": "/pancakeswap/static/js/6.6b7cb360.chunk.js",
+    "static/js/6.6b7cb360.chunk.js.map": "/pancakeswap/static/js/6.6b7cb360.chunk.js.map",
+    "static/js/7.760c3af4.chunk.js": "/pancakeswap/static/js/7.760c3af4.chunk.js",
+    "static/js/7.760c3af4.chunk.js.map": "/pancakeswap/static/js/7.760c3af4.chunk.js.map",
+    "static/js/8.9ece9310.chunk.js": "/pancakeswap/static/js/8.9ece9310.chunk.js",
+    "static/js/8.9ece9310.chunk.js.map": "/pancakeswap/static/js/8.9ece9310.chunk.js.map",
+    "static/js/9.3b3c966e.chunk.js": "/pancakeswap/static/js/9.3b3c966e.chunk.js",
+    "static/js/9.3b3c966e.chunk.js.map": "/pancakeswap/static/js/9.3b3c966e.chunk.js.map",
+    "index.html": "/pancakeswap/index.html",
+    "static/css/4.3fd057df.chunk.css.map": "/pancakeswap/static/css/4.3fd057df.chunk.css.map",
+    "static/js/0.123b3f1a.chunk.js.LICENSE.txt": "/pancakeswap/static/js/0.123b3f1a.chunk.js.LICENSE.txt",
+    "static/js/4.165e57d6.chunk.js.LICENSE.txt": "/pancakeswap/static/js/4.165e57d6.chunk.js.LICENSE.txt",
+    "static/js/5.0bf752eb.chunk.js.LICENSE.txt": "/pancakeswap/static/js/5.0bf752eb.chunk.js.LICENSE.txt",
+    "static/js/6.6b7cb360.chunk.js.LICENSE.txt": "/pancakeswap/static/js/6.6b7cb360.chunk.js.LICENSE.txt",
+    "static/js/9.3b3c966e.chunk.js.LICENSE.txt": "/pancakeswap/static/js/9.3b3c966e.chunk.js.LICENSE.txt",
+    "static/media/inter.css": "/pancakeswap/static/media/Inter.var.a738a131.woff2",
+    "static/media/blue-loader.def91951.svg": "/pancakeswap/static/media/blue-loader.def91951.svg",
+    "static/media/dropdown.87531686.svg": "/pancakeswap/static/media/dropdown.87531686.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebb35532.js",
+    "static/css/4.3fd057df.chunk.css",
+    "static/js/4.165e57d6.chunk.js",
+    "static/js/main.838a18d0.chunk.js"
+  ]
+}
